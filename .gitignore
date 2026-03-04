@@ -39,3 +39,5 @@ dist/
 # Power BI / Tableau temp
 *.pbix.autosave
 *.twb~
+
+python/report.md
